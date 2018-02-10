@@ -4,10 +4,12 @@
 </p>
 <ol>
   <li>
-    Lab 01:Implementation of Active and Passive Attacks: Man-In-The-Middle Attack
+    Lab 01: Attributes of a Secure Network
    </li>
    <li>
-    Lab 02:	Encryption and Decryption using Classical Ciphers
+    Lab 02:	
+    Implementation of Active and Passive Attacks: Man-In-The-Middle Attack
+    Encryption and Decryption using Classical Ciphers
     </li>
     <li>
     Lab 03:	Implementation of DES: Encryption, Decryption, Key Generation
