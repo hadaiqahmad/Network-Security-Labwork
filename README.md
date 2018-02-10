@@ -11,16 +11,13 @@
     Implementation of Active and Passive Attacks: Man-In-The-Middle Attack
     </li>
     <li>
-    Lab 03: Encryption and Decryption using Classical Ciphers	
-    Implementation of DES: Encryption, Decryption, Key Generation
+    Lab 03: Encryption and Decryption using Classical Ciphers
     </li>
     <li>
     Lab 04:Encryption and Decryption Using Polyalphabetic Ciphers	
-    Implementation of AES: Encryption, Decryption, Key Generation 
     </li>
     <li>
     Lab 05: Implementation of DES: Encryption, Decryption, Key Generation	
-    Implementation of RSA: Key Pair Generation, Encryption, Decryption
     </li>
     <li>
     Lab 06:	OS Fingerprinting and Port Scanning 
