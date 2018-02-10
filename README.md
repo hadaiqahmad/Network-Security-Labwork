@@ -9,37 +9,39 @@
    <li>
     Lab 02:	
     Implementation of Active and Passive Attacks: Man-In-The-Middle Attack
-    Encryption and Decryption using Classical Ciphers
     </li>
     <li>
-    Lab 03:	Implementation of DES: Encryption, Decryption, Key Generation
+    Lab 03: Encryption and Decryption using Classical Ciphers	
+    Implementation of DES: Encryption, Decryption, Key Generation
     </li>
     <li>
-    Lab 04:	Implementation of AES: Encryption, Decryption, Key Generation 
+    Lab 04:Encryption and Decryption Using Polyalphabetic Ciphers	
+    Implementation of AES: Encryption, Decryption, Key Generation 
     </li>
     <li>
-    Lab 05:	Implementation of RSA: Key Pair Generation, Encryption, Decryption
+    Lab 05: Implementation of DES: Encryption, Decryption, Key Generation	
+    Implementation of RSA: Key Pair Generation, Encryption, Decryption
     </li>
     <li>
-    Lab 06:	Implementation of Hash using Message Digest Function
+    Lab 06:	OS Fingerprinting and Port Scanning 
     </li>
     <li>
-    Lab 07:	Kerberos Implementation 
+    Lab 07:	Implementation of Advanced Encryption Standard AES 
     </li>
     <li>
-    Lab 08:	Implementation of Public key Distribution: Web based Scenario
+    Lab 08:	Protocol Verification using Scyther
     </li>
     <li>
-    Lab 09:	Setup of Virtual Private Network
+    Lab 09:	Ensuring the Integrity of Message 
     </li>
     <li>
-    Lab 11:	S/MIME Implementation: Thunderbird and Outlook
+    Lab 10:	Digital Certificate
     </li>
     <li>
-    Lab 12:	Intrusion Detection Systems: Snort
+    Lab 11:	Intrusion Detection Systems: Snort
     </li>
     <li>
-    Lab 14:	Identifying vulnerabilities in network using different Penetration testing techniques 
+    Lab 12:	IPGP and S/MIME
     </li>
   </li>
 </ol>
